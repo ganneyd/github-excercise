@@ -8,3 +8,5 @@ just checking if i can push to origin
 psuhing to master with rule in place
 now the rul is in place
 think it is now
+add new food with merge rule blah blash
+new food efiuhweid
